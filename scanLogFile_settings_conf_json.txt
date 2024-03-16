@@ -1,0 +1,17 @@
+
+{
+
+"Path to directory which contains log files"		:	"C:\path1"	,
+
+"Path to directory where output files will be created"	:	"C:\path2"	,
+
+"Names of the logfiles to be scanned"			:
+
+[
+
+"20200202_DE1234567890_cut.log"	,
+"20200202_DE1234567890.log"	,
+"20200202_cut.log"
+
+]
+}
